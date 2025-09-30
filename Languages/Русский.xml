@@ -4,10 +4,9 @@
 		<InternalInfo/>
 		<Properties>
 			<ObjectBelonging>Adopted</ObjectBelonging>
-			<Name>Армянский</Name>
+			<Name>Русский</Name>
 			<Comment/>
-			<ExtendedConfigurationObject>684379da-4f62-4c94-82c5-07fc812f66a0</ExtendedConfigurationObject>
-			<LanguageCode>hy</LanguageCode>
+			<LanguageCode>ru</LanguageCode>
 		</Properties>
 	</Language>
 </MetaDataObject>
