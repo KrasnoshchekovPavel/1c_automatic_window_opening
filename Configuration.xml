@@ -43,6 +43,10 @@
 					<v8:lang>hy</v8:lang>
 					<v8:content>Стартовые окна</v8:content>
 				</v8:item>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Стартовые окна</v8:content>
+				</v8:item>
 			</Synonym>
 			<Comment/>
 			<ConfigurationExtensionPurpose>Customization</ConfigurationExtensionPurpose>
@@ -53,13 +57,28 @@
 			<DefaultRoles>
 				<xr:Item xsi:type="xr:MDObjectRef">Role.соОсновнаяРоль</xr:Item>
 			</DefaultRoles>
-			<Vendor/>
-			<Version>1.1</Version>
-			<BriefInformation/>
+			<Vendor>github.com/KrasnoshchekovPavel</Vendor>
+			<Version>1.1.1</Version>
+			<BriefInformation>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Автоматическое открытие форм при запуске 1С:Предприятия</v8:content>
+				</v8:item>
+			</BriefInformation>
 			<DetailedInformation/>
 			<Copyright/>
-			<VendorInformationAddress/>
-			<ConfigurationInformationAddress/>
+			<VendorInformationAddress>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>github.com/KrasnoshchekovPavel</v8:content>
+				</v8:item>
+			</VendorInformationAddress>
+			<ConfigurationInformationAddress>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>github.com/KrasnoshchekovPavel/1c_automatic_window_opening</v8:content>
+				</v8:item>
+			</ConfigurationInformationAddress>
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
