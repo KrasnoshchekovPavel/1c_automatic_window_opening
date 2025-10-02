@@ -58,7 +58,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.соОсновнаяРоль</xr:Item>
 			</DefaultRoles>
 			<Vendor>github.com/KrasnoshchekovPavel</Vendor>
-			<Version>1.1.1</Version>
+			<Version>1.1.2</Version>
 			<BriefInformation>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
